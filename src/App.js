@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter  basename={`${process.env.PUBLIC_URL}/`}>
         <div className="App">
           <Navigation LogoTitle="React Portfolio" />
-           <Route exact path="/home" render={() => <Home  title="Nicolae Rastau" subtitle="Frontend developer - JavaScript" button="Find Out More"/>} />
+           <Route exact path="/" render={() => <Home  title="Nicolae Rastau" subtitle="Frontend developer - JavaScript" button="Find Out More"/>} />
            <Route path="/about" render={() => <About />} />
            <Route path="/contact" render={() => <Contact title="Contact"/>} />
            <Route path="/projects" render={() => <Projects title="Projects" /> } />
