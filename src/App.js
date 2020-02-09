@@ -8,7 +8,7 @@ import Projects from './projects';
 
 function App() {
   return (
-    <BrowserRouter basename='/directory-name'>
+    <BrowserRouter>
       <div className='App'>
         <Navigation LogoTitle='React Portfolio' />
         <Route
