@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/nicolaerastau/React-Portfolio/static/css/main.b98f5111.chunk.css",
-    "main.js": "/nicolaerastau/React-Portfolio/static/js/main.61ac734c.chunk.js",
-    "main.js.map": "/nicolaerastau/React-Portfolio/static/js/main.61ac734c.chunk.js.map",
-    "runtime~main.js": "/nicolaerastau/React-Portfolio/static/js/runtime~main.797c8dd3.js",
-    "runtime~main.js.map": "/nicolaerastau/React-Portfolio/static/js/runtime~main.797c8dd3.js.map",
-    "static/js/2.2985c281.chunk.js": "/nicolaerastau/React-Portfolio/static/js/2.2985c281.chunk.js",
-    "static/js/2.2985c281.chunk.js.map": "/nicolaerastau/React-Portfolio/static/js/2.2985c281.chunk.js.map",
-    "index.html": "/nicolaerastau/React-Portfolio/index.html",
-    "precache-manifest.612d15240ce0401921e93823d7abe50b.js": "/nicolaerastau/React-Portfolio/precache-manifest.612d15240ce0401921e93823d7abe50b.js",
-    "service-worker.js": "/nicolaerastau/React-Portfolio/service-worker.js",
-    "static/css/main.b98f5111.chunk.css.map": "/nicolaerastau/React-Portfolio/static/css/main.b98f5111.chunk.css.map",
-    "static/media/about.jpg": "/nicolaerastau/React-Portfolio/static/media/about.8c87b924.jpg",
-    "static/media/contact.jpg": "/nicolaerastau/React-Portfolio/static/media/contact.9e124b7c.jpg",
-    "static/media/home1.jpg": "/nicolaerastau/React-Portfolio/static/media/home1.e3b29003.jpg",
-    "static/media/projects.jpg": "/nicolaerastau/React-Portfolio/static/media/projects.cb1a9ed4.jpg"
+    "main.css": "/nicolaerastau.github.io/React-Portfolio/static/css/main.b98f5111.chunk.css",
+    "main.js": "/nicolaerastau.github.io/React-Portfolio/static/js/main.744bc69c.chunk.js",
+    "main.js.map": "/nicolaerastau.github.io/React-Portfolio/static/js/main.744bc69c.chunk.js.map",
+    "runtime~main.js": "/nicolaerastau.github.io/React-Portfolio/static/js/runtime~main.31d015a2.js",
+    "runtime~main.js.map": "/nicolaerastau.github.io/React-Portfolio/static/js/runtime~main.31d015a2.js.map",
+    "static/js/2.2985c281.chunk.js": "/nicolaerastau.github.io/React-Portfolio/static/js/2.2985c281.chunk.js",
+    "static/js/2.2985c281.chunk.js.map": "/nicolaerastau.github.io/React-Portfolio/static/js/2.2985c281.chunk.js.map",
+    "index.html": "/nicolaerastau.github.io/React-Portfolio/index.html",
+    "precache-manifest.a82d7f92815242f7b241fc3fdccd2a1e.js": "/nicolaerastau.github.io/React-Portfolio/precache-manifest.a82d7f92815242f7b241fc3fdccd2a1e.js",
+    "service-worker.js": "/nicolaerastau.github.io/React-Portfolio/service-worker.js",
+    "static/css/main.b98f5111.chunk.css.map": "/nicolaerastau.github.io/React-Portfolio/static/css/main.b98f5111.chunk.css.map",
+    "static/media/about.jpg": "/nicolaerastau.github.io/React-Portfolio/static/media/about.8c87b924.jpg",
+    "static/media/contact.jpg": "/nicolaerastau.github.io/React-Portfolio/static/media/contact.9e124b7c.jpg",
+    "static/media/home1.jpg": "/nicolaerastau.github.io/React-Portfolio/static/media/home1.e3b29003.jpg",
+    "static/media/projects.jpg": "/nicolaerastau.github.io/React-Portfolio/static/media/projects.cb1a9ed4.jpg"
   }
 }
