@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nicolaerastau.github.io/React-Portfolio",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
@@ -10,7 +11,6 @@
     "react-scripts": "^3.3.1",
     "reactjs-popup": "^1.5.0"
   },
-  "homepage": "https://nicolaerastau.github.io/React-Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build ",
