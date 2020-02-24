@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route } from 'react-router-dom';
+import { HashRouter, Route } from 'react-router-dom';
 import Navigation from './navigation';
 import Home from './home';
 import About from './about';
@@ -8,7 +8,7 @@ import Projects from './projects';
 
 function App() {
   return (
-    <BrowserRouter basename={`${process.env.PUBLIC_URL}/`}>
+    <HashRouter basename={`${process.env.PUBLIC_URL}/`}>
       <div className='App'>
         <Navigation LogoTitle='React Portfolio' />
         <Route
@@ -26,7 +26,7 @@ function App() {
         <Route path='/contact' render={() => <Contact title='Contact' />} />
         <Route path='/projects' render={() => <Projects title='Projects' />} />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
