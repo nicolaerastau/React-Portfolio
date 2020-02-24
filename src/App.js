@@ -22,7 +22,7 @@ function App() {
             />
           )}
         />
-        <Route path='/about' render={() => <About />} />
+        <Route path='/about/' render={() => <About />} />
         <Route path='/contact' render={() => <Contact title='Contact' />} />
         <Route path='/projects' render={() => <Projects title='Projects' />} />
       </div>
