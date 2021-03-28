@@ -25,6 +25,15 @@ function Projects(props) {
             <a
               target='_blank'
               rel='noopener noreferrer'
+              href={'https://nicolaerastau.github.io/react-task/'}
+            >
+              - A react app with JSON Server
+            </a>
+          </li>
+          <li className='list'>
+            <a
+              target='_blank'
+              rel='noopener noreferrer'
               href={'https://react-fotball.netlify.com/'}
             >
               - A react app about fotball
