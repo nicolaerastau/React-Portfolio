@@ -7,16 +7,17 @@
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .about {
     padding: 10px;
-    margin: 9px;
+    margin: auto;
+    width: 100%;
   }
 }
 
 .text {
   color: rgb(133, 133, 133);
-  text-shadow: 0.4px 0.4px #fff;
+  text-shadow: 0.4px 0.9px #fff;
   padding: 40px 40px;
   margin: 70px auto;
   font-size: 30px;

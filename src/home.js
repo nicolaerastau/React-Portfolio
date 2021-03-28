@@ -1,5 +1,5 @@
 import React from 'react';
-import Background from './image/home1.jpg';
+import Background from './image/home2.jpg';
 import './css/home.css';
 import Popup from 'reactjs-popup';
 
@@ -7,7 +7,7 @@ const myStyles = {
   backgroundImage: `url(${Background})`,
   backgroundPosition: 'center center',
   backgroundSize: 'cover',
-  backgroundRepeat: 'no-repeat'
+  backgroundRepeat: 'no-repeat',
 };
 
 function Home(props) {
@@ -20,7 +20,7 @@ function Home(props) {
         trigger={<button className='button'> {props.button} </button>}
         modal
       >
-        {close => (
+        {(close) => (
           <div className='modal'>
             <div className='header'>About portfolio</div>
             <div className='content'>

@@ -1,13 +1,13 @@
 import React from 'react';
 import './css/about.css';
 import { Link } from 'react-router-dom';
-import AboutImage from './image/about.jpg';
+import AboutImage from './image/about1.jpg';
 
 const aboutStyle = {
   backgroundImage: `url(${AboutImage})`,
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
-  backgroundPosition: 'center center'
+  backgroundPosition: 'center center',
 };
 
 function About(props) {
