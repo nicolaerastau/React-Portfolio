@@ -23,7 +23,7 @@ function Contact(props) {
         <div className='title_1'>
           <h1>{props.title}</h1>
         </div>
-        <section id='phone'>You're welcome to call tel : 0762295568</section>
+        <section id='phone'>You're welcome to contact me.</section>
 
         <div className='email'>
           <a href='mailto: nickqsr@yahoo.com' className='btn'>
