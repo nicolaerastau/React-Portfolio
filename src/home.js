@@ -24,8 +24,8 @@ function Home(props) {
           <div className='modal'>
             <div className='header'>About portfolio</div>
             <div className='content'>
-              This is an portfolio which is build with React.js.The color theme
-              is blue and gray.The work is in progress.
+              This is an portfolio which is build with React.js.The work is in
+              progress.
             </div>
             <div className='actions'>
               <button

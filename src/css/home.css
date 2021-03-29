@@ -86,7 +86,7 @@
 }
 
 .button_1 {
-  border-radius: 2px;
+  border-radius: 4px;
   margin-left: 30px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;

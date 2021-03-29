@@ -16,11 +16,13 @@
 }
 
 .text {
-  color: rgb(133, 133, 133);
-  text-shadow: 0.4px 0.9px #fff;
+  color: #700000;
+  text-shadow: 0.4px 0.4px #fff;
   padding: 40px 40px;
   margin: 70px auto;
   font-size: 30px;
+  background-color: #acb0b7;
+  opacity: 0.8;
 }
 @media (max-width: 426px) {
   .text {

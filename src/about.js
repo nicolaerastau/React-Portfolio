@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/about.css';
 import { Link } from 'react-router-dom';
-import AboutImage from './image/about1.jpg';
+import AboutImage from './image/about.jpg';
 
 const aboutStyle = {
   backgroundImage: `url(${AboutImage})`,
