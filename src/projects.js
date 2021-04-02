@@ -30,6 +30,15 @@ function Projects(props) {
               - A react app with JSON Server
             </a>
           </li>
+         <li className='list'>
+            <a
+              target='_blank'
+              rel='noopener noreferrer'
+              href={'https://nicolaerastau.github.io/Svelte-Project/'}
+            >
+              - Svelte project
+            </a>
+          </li>
           <li className='list'>
             <a
               target='_blank'
