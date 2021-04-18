@@ -8,14 +8,6 @@
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
 }
 
-@media (max-width: 768px) {
-  .about {
-    padding: 20px;
-    margin: auto;
-    width: 100%;
-  }
-}
-
 .text {
   color: rgb(0, 0, 0);
   padding: 40px 40px;
@@ -25,10 +17,15 @@
   opacity: 0.7;
   font-weight: 600;
 }
-@media (max-width: 426px) {
+
+@media (max-width: 480px) {
   .text {
     font-size: 17px;
     padding: 8px;
-    margin: auto;
+    margin: 0 auto;
+  }
+  .about {
+    margin: 0 20px;
+    padding: 20px;
   }
 }

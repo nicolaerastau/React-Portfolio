@@ -2,6 +2,7 @@ import React from 'react';
 import Background from './image/home2.jpg';
 import './css/home.css';
 import Popup from 'reactjs-popup';
+import Image from './image/image1.jpg';
 
 const myStyles = {
   backgroundImage: `url(${Background})`,
@@ -10,11 +11,24 @@ const myStyles = {
   backgroundRepeat: 'no-repeat',
 };
 
+const imageStyle = {
+  backgroundImage: `url(${Image})`,
+  backgroundPosition: 'center center',
+  backgroundSize: 'cover',
+  backgroundRepeat: 'no-repeat',
+  // transition: 'all 0.3s ease-in-out',
+};
+
 function Home(props) {
   return (
     <div className='home' style={myStyles}>
       <div className='title'>{props.title}</div>
       <div className='subtitle'>{props.subtitle}</div>
+      <div className='image' style={imageStyle}>
+        <div className='content1'>
+          "I am once again telling you, React is not so difficult to learn."
+        </div>
+      </div>
 
       <Popup
         trigger={<button className='button'> {props.button} </button>}
