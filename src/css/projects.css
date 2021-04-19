@@ -4,7 +4,7 @@
   text-align: center;
   border: 2px solid rgb(88, 115, 156);
   border-radius: 5px;
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.7);
 }
 
 @media (max-width: 767px) {
