@@ -26,7 +26,7 @@ function Home(props) {
       <div className='subtitle'>{props.subtitle}</div>
       <div className='image' style={imageStyle}>
         <div className='content1'>
-          "I am once again telling you, React is not so difficult to learn."
+          "I am telling you once again, React is not so difficult to learn."
         </div>
       </div>
 
