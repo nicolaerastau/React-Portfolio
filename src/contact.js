@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from './image/contact.jpg';
+import Image from './image/contact.png';
 import { Link } from 'react-router-dom';
 import './css/contact.css';
 
@@ -8,7 +8,7 @@ const contactStyle = {
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
   backgroundPosition: 'center center',
-  boxShadow: '0 0 40px rgba(0,0,0,0.8)'
+  boxShadow: '0 0 40px rgba(0,0,0,0.8)',
 };
 
 function Contact(props) {
